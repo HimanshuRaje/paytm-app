@@ -30,7 +30,7 @@ A simple and secure web application that allows users to register, log in, and p
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React / HTML / CSS / JavaScript
+- **Frontend:** React / HTML / TailwindCSS / JavaScript
 - **Backend:** Node.js
 - **Authentication:** JWT (JSON Web Tokens)/Middleware 
 - **Database:** MongoDB / mongoDBCompass
