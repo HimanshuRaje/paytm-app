@@ -2,7 +2,7 @@
 
 A simple and secure web application that allows users to register, log in, and perform money transfers between accounts. It includes user authentication via JWT, a personal dashboard, and a "Send Money" feature.
 
-"Initial base taken from 100xdevs cohort, further development, design, and features (around 25,389 changes) built by me."
+"development, design, and features (around 25,389 changes) built by me, initial refrence is from 100xdevs cohort."
 
 ---
 
