@@ -1,4 +1,4 @@
-# Paytm Clone App
+# PulsePay - Paytm Clone App 
 
 A simple and secure web application that allows users to register, log in, and perform money transfers between accounts. It includes user authentication via JWT, a personal dashboard, and a "Send Money" feature.
 
@@ -36,3 +36,26 @@ A simple and secure web application that allows users to register, log in, and p
 - **Database:** MongoDB / mongoDBCompass
 
 ---
+
+## 🚀 Run Locally
+
+To run this project locally, follow these steps:
+
+First, clone the repository using:
+
+```bash
+git clone https://github.com/your-username/pulsepayapp.git
+cd pulsepayapp
+
+cd backend
+node index.js
+
+& in another terminal
+
+cd ../frontend
+npm install
+npm run dev
+
+```
+
+
