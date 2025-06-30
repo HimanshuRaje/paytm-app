@@ -44,7 +44,7 @@ To run this project locally, follow these steps:
 First, clone the repository using:
 
 ```bash
-git clone https://github.com/your-username/pulsepayapp.git
+git clone https://github.com/HimanshuRaje/paytm-app.git
 cd pulsepayapp
 
 cd backend
